@@ -4,12 +4,11 @@ This project is designed to analyze and optimize data management for "Reliant Re
 
 ## Database Schema
 The project operates on an order management schema that includes tables for:
-
-**Customers:** Stores customer details such as name, email, and country.
-**Products:** Contains product descriptions, class, pricing, and inventory details.
-**Orders:** Manages order placements, statuses, and payment methods.
-**Shippers:** Tracks shipment details, including city and shipping partner.
-**Cartons:** Maintains carton dimensions for shipping purposes.
+- Customers: Stores customer details such as name, email, and country.
+- Products: Contains product descriptions, class, pricing, and inventory details.
+- Orders: Manages order placements, statuses, and payment methods.
+- Shippers: Tracks shipment details, including city and shipping partner.
+- Cartons: Maintains carton dimensions for shipping purposes.
 
 ## Project Requirements and Solutions
 ### 1. Customer Categorization by Creation Date
